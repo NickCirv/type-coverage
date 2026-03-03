@@ -1,0 +1,27 @@
+{
+  "name": "type-coverage",
+  "version": "1.0.0",
+  "description": "Measure TypeScript type coverage. Find every any lurking in your codebase.",
+  "type": "module",
+  "bin": {
+    "type-coverage": "./index.js",
+    "tc": "./index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "developer-tools",
+    "cli",
+    "nodejs",
+    "zero-dependencies",
+    "typescript",
+    "types",
+    "coverage"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NickCirv/type-coverage"
+  }
+}
