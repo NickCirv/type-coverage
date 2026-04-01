@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # type-coverage
 > Measure TypeScript type coverage. Find every `any` lurking in your codebase.
 
